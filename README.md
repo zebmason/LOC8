@@ -7,4 +7,5 @@ LOC8 is currently under development, this repository exists to track contributio
 
 ## Projects analysed
 
-* None as yet
+* [Mono.Cecil](Cecil.md)
+
