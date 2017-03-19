@@ -17,4 +17,5 @@ The reasons for the existence of dead code include
 
 * [Mono.Cecil](Cecil.md)
 * [Roslyn](Roslyn.md)
+* [Microsoft automatic graph layout](Msagl.md)
 
